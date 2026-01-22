@@ -1,4 +1,4 @@
-GITHUB LINK:
+GITHUB LINK: https://nuranisabdulrazak22.github.io/website_SDG-1_No-poverty_assignment-2/ 
 Supportive Hand – SDG 1: No Poverty Website
 📌 Project Title
 
@@ -114,5 +114,6 @@ Supportive Hand
 📍 Address: 706 Campfire Ave. Meriden, CT 06450
 
 📌 Academic Note
+
 
 This website was developed as part of a Web Development Assignment for educational purposes, focusing on UI/UX design, responsiveness, and social awareness aligned with the United Nations Sustainable Development Goals (SDGs)
